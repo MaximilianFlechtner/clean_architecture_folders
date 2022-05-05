@@ -4,7 +4,7 @@ description: A brick to create Clean Architecture Folders.
 # The following defines the version and build number for your brick.
 # A version number is three numbers separated by dots, like 1.2.34
 # followed by an optional build number (separated by a +).
-version: 0.1.0+1
+version: 0.1.0+2
 
 # The following defines the environment for the current brick.
 # It includes the version of mason that the brick requires.
@@ -12,3 +12,10 @@ environment:
   mason: ">=0.1.0-dev <0.1.0"
 
 repository: https://github.com/MaximilianFlechtner/clean_architecture_folders
+
+vars:
+  name:
+    type: string
+    description: App Title
+    default: Dash
+    prompt: What is your App Title?
