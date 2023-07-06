@@ -6,7 +6,7 @@
 
 - Fix
 
-# 1.0.0+3
+# 1.0.0+4
 
 - Added Core Boilerplate
 - Added Test Folder Structure
