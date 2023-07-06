@@ -23,8 +23,11 @@ Generated folder architecture
 📦lib
  ┣ 📂core
  ┃ ┣ 📂error
+ ┃ ┃ ┣ 📜exceptions.dart
+ ┃ ┃ ┗ 📜failure.dart
  ┃ ┣ 📂params
  ┃ ┣ 📂resources
+ ┃ ┣ 📂theme
  ┃ ┣ 📂routes
  ┃ ┣ 📂usecase
  ┃ ┃ ┗ 📜usecase.dart
