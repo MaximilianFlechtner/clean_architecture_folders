@@ -1,4 +1,4 @@
-# clean_architecture_folders_global
+# clean_architecture_folders_lib
 
 A brick to create Clean Architecture Folders.
 
