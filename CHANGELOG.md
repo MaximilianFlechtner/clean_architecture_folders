@@ -10,3 +10,7 @@
 
 - Added Core Boilerplate
 - Added Test Folder Structure
+
+# 1.0.0+6
+
+- Fixed README.md
